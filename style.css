@@ -1,0 +1,100 @@
+body{
+    margin: 0%;
+    padding: 0px;
+    background-color: rgb(241, 241, 241);
+}
+.logo{
+    width: 27.5%;
+    height: 25%;
+    margin-left: 2%;
+    padding-top: 16%;
+    margin-bottom: 0%;
+}
+.textunderlogo{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 5%;
+    margin-top: -1cm;
+    font-size: 27px;
+    line-height: 28px;
+    font-family:Helvetica, Arial, sans-serif;
+}
+.logininfo{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 10px rgb(192, 191, 191);
+    width: 10cm;
+    height: 9cm;
+    margin-left: 58%;
+    margin-bottom: 20%;
+    margin-top: -6cm;
+    border-radius: 0.2cm;
+}
+.em_pas{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 90%;
+    height: 80%;
+    padding: 12px 20px;
+    border: 1px solid #dadada;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.login{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 90%;
+    height: 80%;
+    padding: 12px 20px;
+    border: 1px solid #1877f2;
+    background-color: #1877f2;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 27px;
+    line-height: 28px;
+    cursor: pointer;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+    padding-bottom: 15px;
+}
+.ran{
+    margin: 5%;
+}
+.fpas{
+    margin-left: 31%;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #1877f2;
+}
+.line{
+    width: 80%;
+    color: #dadada;
+    margin-top: 0.5cm;
+}
+.cnew{
+    background-color: green;
+    color: white;
+    margin-left: 25%;
+    margin-top: 2%;
+    width: 50%;
+    height: 80%;
+    padding: 12px 20px;
+    border: 1px solid #dadada;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.te{
+    margin-left: 13%;
+    margin-top: 12%;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
+}
+.footer{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(255, 255, 255);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: smaller;
+}
+.lan{
+    padding: 1%;
+}
